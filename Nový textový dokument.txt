@@ -1,0 +1,29 @@
+Konami,platinum games,devil may cry or smth
+
+about us
+slideshow
+cards
+footer
+login(prob jenom design)
+vertical navbar = games, socials
+
+version 2 
+
+Metal gear series
+who made them
+who owns them
+cards
+
+
+
+
+
+
+
+
+
+
+
+https://fontawesome.com/v5/search
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_slideshow_imgdots
+https://getbootstrap.com/docs/5.0/components/card/
